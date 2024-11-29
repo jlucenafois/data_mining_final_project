@@ -1,0 +1,134 @@
+{
+  "A.C. CENTRO MEDICO DOCENTE LA TRINIDAD": {
+    "join_date": {
+      "EMERGENCIA": "03/11/2024",
+      "CARTA AVAL": "03/11/2024"
+    },
+    "tier": "A"
+  },
+  "CENTRO CLINICO FENIX SALUD,C.A.": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "C"
+  },
+  "CENTRO CLINICO VISTA CALIFORNIA, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "C"
+  },
+  "CENTRO DIAGNOSTICO DOCENTE LAS MERCEDES, C.A.": {
+    "join_date": {
+      "EMERGENCIA": null,
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "B"
+  },
+  "CENTRO MEDICO INTEGRA, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "04/01/2024",
+      "CARTA AVAL": "04/01/2024"
+    },
+    "tier": "B"
+  },
+  "CENTRO MEDICO LOIRA, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "B"
+  },
+  "CLINICA EL AVILA, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "05/01/2024",
+      "CARTA AVAL": "05/01/2024"
+    },
+    "tier": "A"
+  },
+  "CLINICA PIEDRA AZUL, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "B"
+  },
+  "CLINICA SANTIAGO DE LEON, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "05/01/2024",
+      "CARTA AVAL": "05/01/2024"
+    },
+    "tier": "B"
+  },
+  "CLINICA VISTA ALEGRE C A": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "B"
+  },
+  "COMERCIAL CIENTIFICA, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "A"
+  },
+  "GRUPO MEDICO LAS ACACIAS, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "B"
+  },
+  "GRUPO MEDICO SANTA PAULA, S.A. (GMSP S.A.)": {
+    "join_date": {
+      "EMERGENCIA": "05/01/2024",
+      "CARTA AVAL": "05/01/2024"
+    },
+    "tier": "A"
+  },
+  "GRUPO MEDICO VARGAS, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "B"
+  },
+  "POLICLINICA METROPOLITANA, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "05/01/2024",
+      "CARTA AVAL": "05/01/2024"
+    },
+    "tier": "A"
+  },
+  "SERVICIOS CLINICOS SANTA MONICA, C.A.": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "B"
+  },
+  "SERVICIOS CLINICOS U.M.Q. NUEVA CARACAS , C.A": {
+    "join_date": {
+      "EMERGENCIA": "03/01/2024",
+      "CARTA AVAL": "03/01/2024"
+    },
+    "tier": "C"
+  },
+  "UNIDAD OFTALMOLOGICA DE CARACAS, C.A": {
+    "join_date": {
+      "EMERGENCIA": null,
+      "CARTA AVAL": "04/01/2024"
+    },
+    "tier": "B"
+  },
+  "UNIDAD OFTALMOLOGICA GONZALEZ SIRIT, C.A.": {
+    "join_date": {
+      "EMERGENCIA": null,
+      "CARTA AVAL": "04/01/2024"
+    }
+  }
+}
