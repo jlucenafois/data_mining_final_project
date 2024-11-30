@@ -31,7 +31,10 @@ This study analyzes the effectiveness of a network-based healthcare delivery sys
 ## Setup
 
 ### Install Dependencies
-* pip install -r requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
 
 ### Download Data
 
