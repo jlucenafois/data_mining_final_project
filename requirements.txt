@@ -1,5 +1,7 @@
 pandas
 numpy
-json
+# json
 rapidfuzz
 datetime
+matplotlib
+seaborn
