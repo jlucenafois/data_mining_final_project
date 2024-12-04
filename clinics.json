@@ -129,6 +129,7 @@
     "join_date": {
       "EMERGENCIA": null,
       "CARTA AVAL": "04/01/2024"
-    }
+    }, 
+    "tier": "B" 
   }
 }
