@@ -48,10 +48,7 @@ pip install -r requirements.txt
 
 ### Download Data
 
-```bash
-git lfs pull
-```
-
+https://drive.google.com/file/d/12juYW-vlfoc9YF9tX8AXZOwEOB7Z8q8N/view?usp=sharing
 
 ## Team
 - Logan Kinajil-Moran (Paper/Presentation)
